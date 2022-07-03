@@ -14,5 +14,5 @@ function flatten(arr){
     }
     console.log(arr1)
 }
-
+//////dddddddddddddddddddddddd
 flatten(x)
